@@ -34,7 +34,7 @@ Order Tracking: Customers can track the status of their orders through their acc
 Customer Support: We have a dedicated customer support team available to assist with any queries, concerns, or feedback.
 
 3. Getting Started
-To access and use the Rawmantic Clothing Site, you need a computer or mobile device with an internet connection. Simply open your preferred web browser and visit our website at www.rawmantic.com.
+To access and use the Rawmantic Clothing Site, you need a computer or mobile device with an internet connection. Simply open your preferred web browser and visit our website at https://rawmantic.vercel.app/
 
 4. How to Use
 Here's a brief guide on how to use our website:
